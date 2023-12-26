@@ -28,7 +28,8 @@
 # Aplicación restard swiftUI
 <p>Animaciones barra y navegación</p>
 <div align="center">
-
+  <img src="Imagenes/Restard/imagen1.png" alt="Ventana emergente 1 - Error de autenticación" width="300"/>
+  <img src="Imagenes/Restard/imagen2.png" alt="Ventana emergente 1 - Error de autenticación" width="300"/>
 </div>
 
 
