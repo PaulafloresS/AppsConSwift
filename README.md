@@ -25,7 +25,7 @@
   <img src="Imagenes/Netflix/imagen1.png" alt="Ventana emergente 1 - Error de autenticación" width="300" style="margin-right: 200px;"/>
 </div>
 
-# Aplicación restard swiftUI
+# Aplicación restart swiftUI
 <p>Animaciones barra y navegación</p>
 <div align="center">
   <img src="Imagenes/Restard/imagen1.png" alt="Ventana emergente 1 - Error de autenticación" width="300"/>
