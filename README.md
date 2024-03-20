@@ -46,7 +46,7 @@
 </div>
 
 # Aplicación FlashChat
-<p>Animaciones barra y navegación</p>
+<p>Uso de cocoapods y Firebase </p>
 <div align="center">
   <img src="Imagenes/FlashChat/LoginUsuario.png" alt="Ventana emergente 1 - Error de autenticación" width="250"/>
     <img src="Imagenes/FlashChat/LoginPau.png" alt="Ventana emergente 1 - Error de autenticación" width="250"/>
