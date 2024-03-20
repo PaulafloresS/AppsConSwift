@@ -48,9 +48,9 @@
 # Aplicación FlashChat
 <p>Animaciones barra y navegación</p>
 <div align="center">
-  <img src="Imagenes/FlashChat/LoginUsuario.png" alt="Ventana emergente 1 - Error de autenticación" width="300"/>
-    <img src="Imagenes/FlashChat/LoginPau.png" alt="Ventana emergente 1 - Error de autenticación" width="300"/>
-  <img src="Imagenes/FlashChat/pantalla2.png" alt="Ventana emergente 1 - Error de autenticación" width="300"/>
+  <img src="Imagenes/FlashChat/LoginUsuario.png" alt="Ventana emergente 1 - Error de autenticación" width="250"/>
+    <img src="Imagenes/FlashChat/LoginPau.png" alt="Ventana emergente 1 - Error de autenticación" width="250"/>
+  <img src="Imagenes/FlashChat/pantalla2.png" alt="Ventana emergente 1 - Error de autenticación" width="250"/>
   <img src="Imagenes/FlashChat/Mensajes.png" alt="Ventana emergente 1 - Error de autenticación" width="1000"/>
     <img src="Imagenes/FlashChat/Autenticacion.png" alt="Ventana emergente 1 - Error de autenticación" width="1000"/>
 </div>
