@@ -55,8 +55,6 @@
     <img src="Imagenes/FlashChat/Autenticacion.png" alt="Ventana emergente 1 - Error de autenticación" width="1000"/>
 </div>
 
-# Collection View 
-<p>Usando dependencia https://github.com/AfrazCodes/CHTCollectionViewWaterfallLayout para ajustar las imagenes </p>
-  <img src="Imagenes/CollectionView/collection1.png" alt="Ventana emergente 1 - Error de autenticación" width="300"/>
+
 
 
